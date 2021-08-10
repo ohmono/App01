@@ -1,7 +1,7 @@
 # App01
-Simple application using HTML5, CSS3 y JavaScript
+Simple application using HTML5, CSS3 and JavaScript
 
-![Universidad de Antioquia](https://www.udea.edu.co/wps/wcm/connect/udea/721b156e-f6bc-4dc8-8595-8b4731c9a8c7/facultad-ingenieria.png?MOD=AJPERES&CVID=nc5CqsS)
+![Universidad de Antioquia](http://relace.org/wp-content/uploads/logo-udea.png)
 
 ---
 ## Desarrollo Ude@ Educación Virtual Universidad de Antioquia
